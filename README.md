@@ -34,7 +34,7 @@ Optionally install [Kaliko CMS Search](https://www.nuget.org/packages/KalikoCMS.
 
 ## Requirements
 
-* ASP.NET 4.0 or later (ASP.NET 4.5 required for ASP.NET Identity provider)
+* ASP.NET 4.0 or later (ASP.NET 4.5 required for ASP.NET Identity Provider)
 * Your choice of database ([list of supported databases](http://kaliko.com/cms/knowledge-base/supported-databases/))
 * ASP.NET MVC or WebForms depending of choice
 
