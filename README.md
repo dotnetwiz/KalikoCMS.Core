@@ -11,7 +11,7 @@ https://github.com/KalikoCMS/DemoSite.Mvc
  and the accompanying article:
 http://www.codeproject.com/Articles/1021598/Build-a-website-with-Kaliko-CMS-using-ASP-NET-MVC
 
-Demo project using WebForms and SQLite:
+This is a demo project using WebForms and SQLite:
 https://github.com/KalikoCMS/DemoSite.WebForms
  and the accompanying article:
 http://www.codeproject.com/Articles/845483/Build-a-website-with-Kaliko-CMS-using-WebForms
