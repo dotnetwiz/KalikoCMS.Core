@@ -6,7 +6,7 @@ The framework approach also doesn't set any boundaries on how you structure your
 
 You find a couple of articles on [how to get started using Kaliko CMS here](http://kaliko.com/cms/get-started/).
 
-Demo project using ASP.NET MVC and SQLite:
+This is a demo project using ASP.NET MVC and SQLite:
 https://github.com/KalikoCMS/DemoSite.Mvc
  and the accompanying article:
 http://www.codeproject.com/Articles/1021598/Build-a-website-with-Kaliko-CMS-using-ASP-NET-MVC
