@@ -20,7 +20,7 @@ Sign up to the Kaliko CMS Developer Newsletter to get updates about the project:
 
 ## Install via NuGet
 
-The far easiest way to install Kaliko CMS is through NuGet:
+By far, the easiest way to install Kaliko CMS is through NuGet:
 
 * Install [Kaliko CMS Core](https://www.nuget.org/packages/KalikoCMS.Core/)-package
 * Install either [Kaliko CMS WebForms Provider](https://www.nuget.org/packages/KalikoCMS.WebForms/)-package or [Kaliko CMS MVC Provider](https://www.nuget.org/packages/KalikoCMS.Mvc/)-package
